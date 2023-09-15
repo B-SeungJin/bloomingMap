@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# bloomingMap
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+광진구x건국대x세종대 연합 축제 때 쓰일 지도 웹앱.
 
 ## Available Scripts
 
